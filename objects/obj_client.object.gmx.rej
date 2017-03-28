@@ -1,0 +1,12 @@
+diff a/objects/obj_client.object.gmx b/objects/obj_client.object.gmx	(rejected hunks)
+@@ -131,8 +131,8 @@
+ M[?'信息']=get_string('想讲啥','');
+ 
+ 
+-var MM = json_encode(M);
+-net_SandMessage(MM);
++//var MM = json_encode(M);
++net_SandMessage(M);
+ 
+ 
+ 
