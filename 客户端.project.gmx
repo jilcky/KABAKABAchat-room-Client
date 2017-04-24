@@ -53,7 +53,6 @@
     <script>scripts\net_GetMessage.gml</script>
     <script>scripts\net_SandMessage.gml</script>
   </scripts>
-  <shaders name="shaders"/>
   <fonts name="fonts">
     <font>fonts\fWindow</font>
   </fonts>
